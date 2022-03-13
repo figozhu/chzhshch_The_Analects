@@ -1,3 +1,7 @@
+# output file
+**/Analects-*.md
+*.pdf
+
 # Logs
 logs
 *.log
